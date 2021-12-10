@@ -22,7 +22,7 @@ This is a MERN e-commerce site that uses MongoDB and Apollo Server.
 Once copied, run "npm install" to install the client and server dependencies
 
 ## Usage <a name="usage"></a>
-
+Open the app at: https://mysterious-garden-97030.herokuapp.com/
 
 
 ## Contribution Guidelines <a name="contribution"></a>
